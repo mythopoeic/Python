@@ -1,0 +1,9 @@
+import string
+albet = string.ascii_lowercase
+N = int(raw_input())
+l = []
+w = 4 * (N - 1) + 1
+for i in range(n-1,-n,-1):
+    del l[:]
+    l.append(albet(i)])
+    print '-'.join(l).center(w,'-')
