@@ -5,6 +5,7 @@
 
 # Google's Python Class
 # http://code.google.com/edu/languages/google-python-class/
+# Starter file, can be ignored
 
 import sys
 import re
