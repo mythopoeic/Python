@@ -6,6 +6,8 @@
 # Google's Python Class
 # http://code.google.com/edu/languages/google-python-class/
 
+# This is the final output file
+
 import sys
 import re
 from glob import glob
